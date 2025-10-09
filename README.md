@@ -1,2 +1,2 @@
-# dxforecast.github.io
+# dxforecast
 Webpage
