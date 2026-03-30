@@ -3,6 +3,4 @@ Webpage
 
 
 link teaching MMA model: 
-[MMA model F2026](https://github.com/DXFORECAST/dxforecast.aau/blob/main/MMA_modeling_F26_PSM/R_trial_PSM.html)
-
 [PSM in R](./MMA_modeling_F26_PSM/R_trial_PSM.html)
