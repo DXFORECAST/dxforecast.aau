@@ -10,5 +10,5 @@ link teaching OECD API:
 
 
 link teaching MEDIS 2026 survival analysis: 
-[MEDISsurvival26](./medis_stats_survival_E26/R_trial_PSM.html)
+[MEDISsurvival26](./medis_stats_survival_E26/survival_slides_2.html)
 
