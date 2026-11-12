@@ -7,3 +7,8 @@ link teaching MMA model:
 
 link teaching OECD API: 
 [HealthIntelAct26](./HealthIntelAct_2026/slides_workshop.html)
+
+
+link teaching MEDIS 2026 survival analysis: 
+[MEDISsurvival26](./medis_stats_survival_E26/R_trial_PSM.html)
+
